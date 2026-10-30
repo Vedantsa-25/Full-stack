@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+staticfiles/
+.DS_Store
+03-admin-site.png
+07-Final.png
